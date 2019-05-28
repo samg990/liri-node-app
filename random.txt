@@ -1,0 +1,7 @@
+spotify-this-song,"I Want it That Way"
+
+http://www.omdbapi.com/?i=tt3896198&apikey=58dd508d
+
+
+
+https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp
